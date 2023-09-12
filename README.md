@@ -1,2 +1,2 @@
-# js-dockerfiles
-Dockerfiles for various nodejs frameworks including React
+# Dockerfile JS Frameworks
+Dockerfiles for various NodeJS frameworks including React
