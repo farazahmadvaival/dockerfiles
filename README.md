@@ -1,7 +1,9 @@
-# Dockerfile JS Frameworks
-#### Dockerfiles for various NodeJS frameworks including React
+# Dockerfile for various Apps
+#### Dockerfiles for various Frameworks including
+
 ```
 NextJS
 NestJS
 ReactJS
+Spring Boot
 ```
